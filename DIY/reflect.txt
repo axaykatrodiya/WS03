@@ -1,0 +1,26 @@
+//==============================================
+// Name           : AKSHAY MUKESHBHAI KATRODIYA
+// Email          : amkatrodiya@myseneca.ca
+// Student ID     : 125298208
+// Section        : NAA
+// Date           : 06/14/2021(Sunday)
+//==============================================
+
+During this week i learnt about class and its instance object in C++. I was able to 
+create and handle objects in C++. Workshop-3 mainly deals with class, with the help
+of class i can can instantiate object. Object can have variables and function also
+known as member functions. Class is a custom data type very similar to struct. Main
+difference between class and struct is class's scope is by default private whereas
+struct has public. For publicly scoped members we can access them from outside of 
+class scope. publicly declared members are easily available to access than private
+members. We can use publicly declared members to change the value of private
+members. For e.g. i used  int calorie() const member function to return calorie.
+we can access publicly declared members by DOT. In workshop Apart from this i learnt
+about formatting with data input and output functions. i have used many ostream
+functions to format proper output for this workshop. There are many useful
+functions such as setf, fill, width and unsetf. I used setf and unsetf for alignment
+means left alignment or fixed. I alos used fill to fill empty space with the desired
+characters upto the size we decided for width. Width is also an ostream functions
+which holds the width or spacing. last but not least unsetf is used to reset format.
+precision functions is also there to determine the precision. I did not face any
+major problem doing this workshop.
